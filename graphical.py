@@ -1,26 +1,10 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                         # <==============================ATTANDANCE SOLVER MODEL================================================>
 from PyQt5 import QtGui
 from PyQt5.QtGui import QIcon
 from PyQt5.QtWidgets import QApplication,QMainWindow,QToolTip,QPushButton,QWidget,QLineEdit,QLabel
 import sys
 import sys
-# sys.setrecursionlimit(100000)
-# print(sys.getrecursionlimit())
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -162,7 +146,6 @@ class Window(QMainWindow):
             self.label2.setText(f"Attendance {str(fans)}%")
         sys.setrecursionlimit(100000)
         print(sys.getrecursionlimit())
-# sys.setrecursionlimit(100000)
 
 App = QApplication(sys.argv)
 window = Window()

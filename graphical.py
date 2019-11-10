@@ -1,4 +1,5 @@
 Version:-2.0
+Dev:-Sarbajyoti Mallik
                         # <==============================ATTANDANCE SOLVER MODEL================================================>
 from PyQt5 import QtGui
 from PyQt5.QtGui import QIcon

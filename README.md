@@ -19,6 +19,4 @@ The Process are :-
 6. And use this algorithm to predict 
 
 
-![WhatsApp Image 2020-07-28 at 3 26 45 AM](https://user-images.githubusercontent.com/44479743/89019671-47d69d80-d33b-11ea-87ca-24a40dcc3db5.jpeg)
-
 ![WhatsApp Image 2020-07-28 at 3 26 51 AM](https://user-images.githubusercontent.com/44479743/89019675-4ad18e00-d33b-11ea-91e7-7f326f6f2a3b.jpeg)
